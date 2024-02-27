@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Attendance System with WEB3.0 Project
 
 ## Project Overview
